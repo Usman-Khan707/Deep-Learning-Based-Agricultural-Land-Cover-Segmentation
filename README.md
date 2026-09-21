@@ -1,14 +1,5 @@
-# Attention U-Net for Sentinel-2 Agricultural Land Cover Segmentation
+# Deep-Learning-Based-Agricultural-Land-Cover-Segmentation
 
-## Author
-**Hannah Fathi**  
-
-## Research Timeline
-Spring 2025  
-
----
-
-## Overview
 
 This repository presents an **end-to-end deep learning framework for semantic segmentation of agricultural land cover** using Sentinel-2 multispectral imagery.
 
@@ -345,8 +336,8 @@ To ensure reproducibility:
 ## Installation
 
 ```bash
-git clone https://github.com/hannah-fathi/attention-unet-sentinel2-landcover-segmentation.git
-cd attention-unet-sentinel2-landcover-segmentation
+git clone https://github.com/Usman-Khan707/Deep-Learning-Based-Agricultural-Land-Cover-Segmentation.git
+cd Deep-Learning-Based-Agricultural-Land-Cover-Segmentation.git
 pip install -r requirements.txt
 ```
 
@@ -434,7 +425,3 @@ Due to size constraints, preprocessed patches and training metadata are not incl
 [7] Luo et al., 2024, Information Processing in Agriculture
 
 ---
-
-## License
-
-MIT License
